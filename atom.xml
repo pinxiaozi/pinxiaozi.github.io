@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pinxiaozi.github.io/</id>
     <title>贫小子</title>
-    <updated>2019-08-09T12:52:14.774Z</updated>
+    <updated>2019-08-09T13:02:12.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pinxiaozi.github.io/"/>
     <link rel="self" href="https://pinxiaozi.github.io//atom.xml"/>
@@ -16,25 +16,46 @@
         <link href="https://pinxiaozi.github.io//post/wu-xu-xin-yong-qia-shou-ba-shou-jiao-ni-zhu-ce-mei-qu-apple-id">
         </link>
         <updated>2019-08-09T12:42:37.000Z</updated>
-        <content type="html"><![CDATA[<p><strong><code>贫小子：所有的步骤都经过我们实测。不过，这不意味着本教程可以涵盖所有情况，毕竟人生最不缺的就是意外。</code></strong></p>
-<p><strong>此前，注册美区 Apple ID 的方式有很多种，但不少方式都随着时间推移一一失效。所以小子我今天重新为大家整理了一次美区 App Store 账号注册方法，实测无需信用卡、Paypal。</strong></p>
-<p><strong>美国作为苹果的大本营，其美国区的 Apple ID 也是好处众多：</strong></p>
-<p><strong>在美区的 App Store 商店中，有着丰富的数字内容，其中就包括了影视剧、电影和音乐。中国的数字内容短暂上线了一段时间之后，就因为相关审查规则便暂停了服务，归期不定。</strong></p>
-<p><strong>在美区 App Store 中，有着更加丰富的应用程序，其中有些应用在中国区是没有的。</strong></p>
+        <content type="html"><![CDATA[<!-- more -->
+<p><strong>贫小子：所有的步骤都经过我们实测。不过，这不意味着本教程可以涵盖所有情况，毕竟人生最不缺的就是意外。</strong></p>
+<p>此前，注册美区 Apple ID 的方式有很多种，但不少方式都随着时间推移一一失效。所以小子我今天重新为大家整理了一次美区 App Store 账号注册方法，实测无需信用卡、Paypal。</p>
+<p>美国作为苹果的大本营，其美国区的 Apple ID 也是好处众多：</p>
+<p>在美区的 App Store 商店中，有着丰富的数字内容，其中就包括了影视剧、电影和音乐。中国的数字内容短暂上线了一段时间之后，就因为相关审查规则便暂停了服务，归期不定。</p>
+<p>在美区 App Store 中，有着更加丰富的应用程序，其中有些应用在中国区是没有的。</p>
 <p><strong>▲ 美区有许多中区没有上架的游戏和 app</strong></p>
-<p>如果要说缺点，那就是购买比较麻烦（需要绑定美国信用卡或者购买 iTunes 礼品卡充值），以及没有中国区 1 元 / 3 元的超低定价（美区收费应用的最低价为 0.99 美元，Apple Music 为 15 美元 / 月）。拥有一个美国区 Apple ID 属于有利无害的事情，多一手准备也不会有什么坏处。▲ 未在中区上架的音乐应用 Spotify. 图片来自：Voltaico但最近许多粉丝向 A 君反应，通过这个方法进行到「Account Settings」这一步选择支付方式时，没有「None」的选项，从而导致注册失败。这是由于 App Store 会检测你在注册这个账号是所在地区，如果你不在 Apple ID 所属的地区（本文中指美国），那么在输入付款方式时是无法选择礼品卡或商店余额作为付款方式的。那怎么办呢？今天 A 君升级了美区 Apple ID 注册指南，同样无需信用卡，这一次你甚至不需要电脑，在手机上就能完成注册。注：本教程需要科学上网环境。懒人目录注册 Apple ID设置付款信息注册 Apple ID首先，你需要在浏览器中打开苹果官网，拉到底部在地区处选择 United States。</p>
+<p>如果要说缺点，那就是购买比较麻烦（需要绑定美国信用卡或者购买 iTunes 礼品卡充值），以及没有中国区 1 元 / 3 元的超低定价（美区收费应用的最低价为 0.99 美元，Apple Music 为 15 美元 / 月）。</p>
+<p><strong>▲拥有一个美国区 Apple ID 属于有利无害的事情，多一手准备也不会有什么坏处。</strong></p>
+<p>最近许多粉丝向小子反应，通过这个方法进行到「Account Settings」这一步选择支付方式时，没有「None」的选项，从而导致注册失败。这是由于 App Store 会检测你在注册这个账号是所在地区，如果你不在 Apple ID 所属的地区（本文中指美国），那么在输入付款方式时是无法选择礼品卡或商店余额作为付款方式的。那怎么办呢？今天小子升级了美区 Apple ID 注册指南，同样无需信用卡，这一次你甚至不需要电脑，在手机上就能完成注册。注：本教程需要科学上网环境。</p>
+<p><strong>懒人目录</strong></p>
+<p>注册 Apple ID</p>
+<p>设置付款信息</p>
+<p><strong>注册 Apple ID</strong></p>
+<p>首先，你需要在浏览器中打开苹果官网，拉到底部在地区处选择 United States。</p>
+<p><img src="https://pinxiaozi.github.io//post-images/1565355453340.webp" alt=""></p>
 <p>完成之后，会看到整个页面由中文变成英文。重新将页面拉到底部，选择「Account」-「Manage Your Apple ID」。打开新页面后，要注意看左下角的地区标示，如果仍为中国，则需重新点选换到 United States。</p>
-<p>确定地区且页面全为英文之后，我们就可以选择「Create your Apple ID」了，这里你需要用一个从未注册过 Apple ID 的邮箱进行注册。同时，在填写生日信息的时候一定要慎重，由于美区的影视资源等内容有进行分级，乱写生日信息可能导致某些东西由于年龄原因无法使用哦。</p>
-<p>完成填写后点击下一步，这时苹果会向你的注册邮箱发送一封验证邮件，将验证码填入即可验证成功。在此期间，由一定概率会出现「由于一些原因，当前账号无法注册」这一提示，这时页面会跳转到原先的信息填写界面。不要慌，重新在底部填写验证，让苹果再给你发一封验证邮件，多试几次就会成功了。</p>
-<p>出现这个界面之后，就代表你的 Apple ID 注册成功了！设置付款信息完成 Apple ID 注册，最重要的一步来了：在 App Store 中设置你的付款方式。正如我开头所说，由于苹果加强了对 App Store 账号的管理，会通过某些方式检查注册人地理位置是否与注册地区一致，因此，在这一步我们首先在确保自己处于科学上网环境，且该环境必须是在全局代理下的。紧接着，打开 App Store，点击右上角的头像将当前的账号登出，并登陆你刚刚注册的 Apple ID。这时，由于你的账号是第一次登陆 App Store，苹果会提示你「检查」这个账号，点击即可。</p>
+<p><img src="https://pinxiaozi.github.io//post-images/1565355495332.webp" alt=""></p>
+<p>确定地区且页面全为英文之后，我们就可以选择「Create your Apple ID」了，这里你需要用一个从未注册过 Apple ID 的邮箱进行注册。</p>
+<p>同时，在填写生日信息的时候一定要慎重，由于美区的影视资源等内容有进行分级，乱写生日信息可能导致某些东西由于年龄原因无法使用哦。</p>
+<p><img src="https://pinxiaozi.github.io//post-images/1565355522355.webp" alt=""></p>
+<p>完成填写后点击下一步，这时苹果会向你的注册邮箱发送一封验证邮件，将验证码填入即可验证成功。</p>
+<p>在此期间，由一定概率会出现「由于一些原因，当前账号无法注册」这一提示，这时页面会跳转到原先的信息填写界面。不要慌，重新在底部填写验证，让苹果再给你发一封验证邮件，多试几次就会成功了。</p>
+<p><img src="https://pinxiaozi.github.io//post-images/1565355548702.webp" alt=""></p>
+<p>出现这个界面之后，就代表你的 Apple ID 注册成功了！</p>
+<p><strong>设置付款信息</strong></p>
+<p>完成 Apple ID 注册，最重要的一步来了：<strong>在 App Store 中设置你的付款方式。</strong><br>
+正如我开头所说，由于苹果加强了对 App Store 账号的管理，会通过某些方式检查注册人地理位置是否与注册地区一致，因此，在这一步我们首先在确保自己处于科学上网环境，且该环境必须是在全局代理下的。</p>
+<p>紧接着，打开 App Store，点击右上角的头像将当前的账号登出，并登陆你刚刚注册的 Apple ID。这时，由于你的账号是第一次登陆 App Store，苹果会提示你「检查」这个账号，点击即可。</p>
+<p><img src="https://pinxiaozi.github.io//post-images/1565355596660.webp" alt=""></p>
 <p>在新页面中，注意查看地区是否为 United States，如果不是需要手动切换至 United States，打开「同意条款与条件」后点击下一步，按照提示填写信息。</p>
-<p>重点来了！在新页面的「付款方式」下选择「None」。注意，这个选项只有当网络处于全局代理的科学上网环境下才会显示，否则将只显示「信用卡」和「PayPal」两个选项。紧接着，在「账单寄送地址」处填入相关信息，可以使用「美国地址生成器」生成一个并填入。</p>
-<p>需要注意的是，美区 App Store 中的应用是需要交税的，如果你希望以较低的价格购买一些付费 app，建议在地址处填入税率较低的州，比如 Oregon（俄勒冈州）、Alaska（阿拉斯加州）、Delaware（特拉华州）、Montana（蒙大拿州）、New Hampshire（新罕布什尔州）等。填写好之后，点击下一步，你的美区 Apple ID 就注册成功啦！赶紧去下载你想下的 app 吧。</p>
+<p><img src="https://pinxiaozi.github.io//post-images/1565355617735.webp" alt=""></p>
+<p><strong>重点来了！在新页面的「付款方式」下选择「None」。</strong> 注意，这个选项只有当网络处于全局代理的科学上网环境下才会显示，否则将只显示「信用卡」和「PayPal」两个选项。</p>
+<p>紧接着，在「账单寄送地址」处填入相关信息，可以使用「美国地址生成器」生成一个并填入。</p>
+<p><img src="https://pinxiaozi.github.io//post-images/1565355645263.webp" alt=""></p>
+<p>需要注意的是，美区 App Store 中的应用是需要交税的，如果你希望以较低的价格购买一些付费 app，建议在地址处填入税率较低的州，比如 Oregon（俄勒冈州）、Alaska（阿拉斯加州）、Delaware（特拉华州）、Montana（蒙大拿州）、New Hampshire（新罕布什尔州）等。</p>
+<p>填写好之后，点击下一步，你的美区 Apple ID 就注册成功啦！赶紧去下载你想下的 app 吧。</p>
+<p><img src="https://pinxiaozi.github.io//post-images/1565355668125.webp" alt=""></p>
 <p>最后需要提醒大家，如果你是 Apple Music 的中区用户，那么当你从中区切到美区下载 app，再切中区打开 Apple Music 时，会导致其中的音乐缓存不见……</p>
-<p>作者：cnnjzc<br>
-链接：https://www.jianshu.com/p/eb5dcc1dda3e<br>
-来源：简书<br>
-简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。</p>
+<p><strong>至于解决方法嘛，小子目前还没有发现，你有什么好办法吗？欢迎提交你的分享</strong></p>
 ]]></content>
     </entry>
     <entry>
