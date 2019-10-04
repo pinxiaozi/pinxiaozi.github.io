@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pinxiaozi.github.io/</id>
     <title>贫小子</title>
-    <updated>2019-10-04T04:37:10.934Z</updated>
+    <updated>2019-10-04T04:42:30.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pinxiaozi.github.io/"/>
     <link rel="self" href="https://pinxiaozi.github.io//atom.xml"/>
@@ -11,12 +11,13 @@
     <icon>https://pinxiaozi.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 贫小子</rights>
     <entry>
-        <title type="html"><![CDATA[赞助我]]></title>
-        <id>https://pinxiaozi.github.io//post/zan-zhu-wo</id>
-        <link href="https://pinxiaozi.github.io//post/zan-zhu-wo">
+        <title type="html"><![CDATA[攀登者 - 抢先版]]></title>
+        <id>https://pinxiaozi.github.io//post/pan-deng-zhe-qiang-xian-ban</id>
+        <link href="https://pinxiaozi.github.io//post/pan-deng-zhe-qiang-xian-ban">
         </link>
-        <updated>2019-10-04T04:27:17.000Z</updated>
-        <content type="html"><![CDATA[<p>赞助我</p>
+        <updated>2019-10-04T04:41:01.000Z</updated>
+        <content type="html"><![CDATA[<iframe src="https://jxyun.thermoware.cn/m3u8.php?v=http://v3.bjssmd.net/20191001/uAA52hii/index.m3u8" width="100%" height="300px" style="border: 7px solid #2c2c2c;display: block;box-sizing: border-box;" playsinline="" webkit-playsinline="" preload="auto" controls=""></iframe>
+<p>1960年，中国登山队向珠峰发起冲刺，完成了世界首次北坡登顶这一不可能的任务。15年后，方五洲和曲松林在气象学家徐缨的帮助下，带领李国梁、杨光等年轻队员再次挑战世界之巅。迎接他们的将是更加严酷的现实，也是生与死的挑战</p>
 ]]></content>
     </entry>
     <entry>
@@ -24,9 +25,18 @@
         <id>https://pinxiaozi.github.io//post/zhong-guo-ji-chang-qiang-xian-ban</id>
         <link href="https://pinxiaozi.github.io//post/zhong-guo-ji-chang-qiang-xian-ban">
         </link>
-        <updated>2019-10-04T04:07:38.000Z</updated>
+        <updated>2019-10-04T04:37:38.000Z</updated>
         <content type="html"><![CDATA[<iframe src="https://jxyun.thermoware.cn/m3u8.php?v=http://v3.bjssmd.net/20191001/uAA52hii/index.m3u8" width="100%" height="300px" style="border: 7px solid #2c2c2c;display: block;box-sizing: border-box;" playsinline="" webkit-playsinline="" preload="auto" controls=""></iframe>
 <p>电影《中国机长》根据2018年5月14日四川航空3U8633航班机组成功处置特情真实事件改编：机组执行航班任务时，在万米高空突遇驾驶舱风挡玻璃爆裂脱落、座舱释压的极端罕见险情，生死关头，英雄机组的正确处置，确保了机上全体人员的生命安全，创造了世界民航史上的奇迹</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赞助我]]></title>
+        <id>https://pinxiaozi.github.io//post/zan-zhu-wo</id>
+        <link href="https://pinxiaozi.github.io//post/zan-zhu-wo">
+        </link>
+        <updated>2019-10-04T04:27:17.000Z</updated>
+        <content type="html"><![CDATA[<p>赞助我</p>
 ]]></content>
     </entry>
 </feed>
