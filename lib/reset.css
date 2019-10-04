@@ -1,0 +1,167 @@
+html, body, div, span, iframe, h1, h2, h3, h4, h5, h6, p, pre, a, code, img, sub, sup, dl, dt, dd, ol, ul, li, form, label, table, tbody, tr, th, td, article, aside, canvas, footer, header, menu, nav, ruby, audio, video {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Microsoft YaHei", Arial, Helvetica, sans-serif !important;
+
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+th, td {
+  text-align: left;
+  vertical-align: middle;
+}
+
+img {
+  vertical-align: middle;
+}
+.floatfix{
+  zoom:1;
+}
+.floatfix:after{
+  content:"";
+  display:table;
+  clear:both;
+}
+.chuizhi{
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+/*# sourceMappingURL=reset.css.map */
+/*{*/
+  /*transition: width 2s;*/
+  /*-moz-transition: width 2s;	!* Firefox 4 *!*/
+  /*-webkit-transition: width 2s;	!* Safari 和 Chrome *!*/
+  /*-o-transition: width 2s;	!* Opera *!*/
+/*}*/
+
+
+
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 1300px;
+}
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+  zoom:1;
+}
+img{
+  border: none;
+}
+.row:before,
+.row:after
+{
+  display: table;
+  content: " ";
+  clear:both;
+}
+.l1,.l2,.l3,.l4,.l5,.l6,.l7,.l8,.l9,.l10,.l11,.l12{
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  box-sizing: border-box;
+  float: left;
+}
+
+.l12 {
+  width: 100%;
+}
+.l11 {
+  width: 91.66666667%;
+}
+.l10 {
+  width: 83.33333333%;
+}
+.l9 {
+  width: 75%;
+}
+.l8 {
+  width: 66.66666667%;
+}
+.l7 {
+  width: 58.33333333%;
+}
+.l6 {
+  width: 50%;
+}
+.l5 {
+  width: 41.66666667%;
+}
+.l4 {
+  width: 33.33333333%;
+}
+.l3 {
+  width: 25%;
+}
+.l2 {
+  width: 16.66666667%;
+}
+.l1 {
+  width: 8.33333333%;
+}
+.fl{
+  float: left;
+}
+.fr{
+  float: right;
+}
+
+.l-offset-12 {
+  margin-left: 100%;
+}
+.l-offset-11 {
+  margin-left: 91.66666667%;
+}
+.l-offset-10 {
+  margin-left: 83.33333333%;
+}
+.l-offset-9 {
+  margin-left: 75%;
+}
+.l-offset-8 {
+  margin-left: 66.66666667%;
+}
+.l-offset-7 {
+  margin-left: 58.33333333%;
+}
+.l-offset-6 {
+  margin-left: 50%;
+}
+.l-offset-5 {
+  margin-left: 41.66666667%;
+}
+.l-offset-4 {
+  margin-left: 33.33333333%;
+}
+.l-offset-3 {
+  margin-left: 25%;
+}
+.l-offset-2 {
+  margin-left: 16.66666667%;
+}
+.l-offset-1 {
+  margin-left: 8.33333333%;
+}
