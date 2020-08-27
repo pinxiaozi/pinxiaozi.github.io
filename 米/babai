@@ -1,0 +1,38 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>八佰</title>
+    <link rel="stylesheet" href="http://dy.ronrb.cn/lib/reset.css">
+    <link rel="stylesheet" href="http://dy.ronrb.cn//lib/all2.css">   
+</head>
+<body style="max-width: 750px;margin: 0 auto;">
+<div class="he floatfix">
+          八佰
+</div>
+
+<iframe src="https://jx.elwtc.com/vip/?url=https://youku.cdn7-okzy.com/20200820/20513_6741611c/index.m3u8" width="100%" height="300px" style="border: 7px solid #2c2c2c;display: block;box-sizing: border-box;" playsinline="" webkit-playsinline="" preload="auto" controls=""></iframe>
+<div style="border: 7px solid #2c2c2c;height: calc(100vh - 400px);overflow: auto;">
+<div class="movie">
+	<h3>感谢所有支持过贫小子的人</h3>
+	<h2>电影简介</h2>
+	《八佰》是由华谊兄弟电影有限公司和北京七印象文化传媒有限公司出品，腾讯影业文化传播有限公司、北京光线影业有限公司和阿里巴巴影业（北京）有限公司联合出品，导演管虎执导，黄志忠、张俊一、欧豪、张承、王千源、姜武、张译、杜淳、陆思宇、张宥浩、魏晨、李晨、白恩、余皑磊、俞灏明、郑恺等主演的战争题材影片。该片取材1937年淞沪会战期间，讲述了史称“八百壮士”的中国国民革命军第三战区88师524团的一个加强营，固守苏州河畔的四行仓库、阻击日军的故事。
+	
+</div>
+<br>
+<!-- <a href="https://url.cn/5XjBQzz">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;点击此处·赞助贫小子</a> -->
+
+<footer style="border: 30px solid #2c2c2c;box-sizing: border-box;display: flex;align-items: center;line-height: 1;justify-content: center;">
+    关注贫小子朋友圈，不定时更新电影<br>
+    微信:78799915
+    <!--<a href="https://sourl.cn/wxCPAf">七夕情人节视频定制，点击查看样板，<br>如有需要，联系贫小子，微信:78799915</a>-->
+</footer>
+</div>
+<script src="http://dy.ronrb.cn//lib/jquery-3.1.0.min.js"></script>
+
+</body>
+</html>
